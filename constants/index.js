@@ -1,0 +1,2 @@
+const SECONDS_IN_YEAR = 365 * 24 * 60 * 60;
+export const EX_REFRESH_TOKEN = SECONDS_IN_YEAR;
